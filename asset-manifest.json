@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.com.io/dlt_blogsite/static/css/main.27201ae5.css",
-    "main.js": "/github.com.io/dlt_blogsite/static/js/main.ed009ad7.js",
-    "index.html": "/github.com.io/dlt_blogsite/index.html",
-    "main.27201ae5.css.map": "/github.com.io/dlt_blogsite/static/css/main.27201ae5.css.map",
-    "main.ed009ad7.js.map": "/github.com.io/dlt_blogsite/static/js/main.ed009ad7.js.map"
+    "main.css": "/DLT_Blogsite/static/css/main.27201ae5.css",
+    "main.js": "/DLT_Blogsite/static/js/main.ed009ad7.js",
+    "index.html": "/DLT_Blogsite/index.html",
+    "main.27201ae5.css.map": "/DLT_Blogsite/static/css/main.27201ae5.css.map",
+    "main.ed009ad7.js.map": "/DLT_Blogsite/static/js/main.ed009ad7.js.map"
   },
   "entrypoints": [
     "static/css/main.27201ae5.css",
